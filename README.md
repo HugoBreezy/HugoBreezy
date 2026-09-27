@@ -10,7 +10,7 @@
 
 ## 👨‍💻 About Me
 
-I'm a developer and student at **Dar es Salaam Institute of Technology (DIT)**,
+I'm a Computer Engineer,
 passionate about building real-world software systems and learning modern technologies.
 
 - 🔭 Working on full-stack and backend projects
